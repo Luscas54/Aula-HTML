@@ -1,3 +1,21 @@
 body{
+    display: flex;
     justify-content: center;
+    align-items: center;
+    height: 100v;
+    background-color: 00000;
+}
+.contatos{
+    width: 100%;
+    max-width: 600px;
+    padding: 20%;
+    border: 2px solid #333;
+    Border-radius: 10px;
+    background-color: #7FFFD4;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+.name{
+    bottom: 3px;
+    
 }
